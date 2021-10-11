@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hello.pablo@outlook.com
+	name = hello.pablo@Outlook.com
